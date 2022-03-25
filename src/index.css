@@ -10,11 +10,11 @@
 }
 
 :root {
-  --color-bg: #8891a6;
-  --color-bg-variant: #3c4d73;
-  --color-white: #c8d7da;
-  --color-primary: #deac94;
-  --color-light: #a68d88;
+  --color-bg: #8d8f18;
+  --color-bg-variant: #5ba8db;
+  --color-white: #d7db0f;
+  --color-primary: #db2a25;
+  --color-light: #8f0703;
 
   --contianer-width-lg: 75%;
   --container-width-md: 86%;
@@ -33,10 +33,14 @@ html {
 
 body {
   font-family: "Signika Negative", sans-serif;
-  background: var(--color-bg);
+  background: var(--color-bg-variant);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/background.png);
+  background-image: url(../src/assets/background2.png);
+}
+.container {
+  width: var(--contianer-width-lg);
+  margin: auto;
 }
 
 h1,
@@ -45,6 +49,10 @@ h3,
 h4,
 h5 {
   font-weight: 500;
+}
+
+h5 {
+  color: var(--color-white);
 }
 
 h1 {
@@ -74,7 +82,7 @@ a:hover {
 .btn {
   width: max-content;
   display: inline-block;
-  color: var(--color-primary);
+  color: var(--color-light);
   padding: 0.75rem 1.2rem;
   border-radius: 0.2rem;
   cursor: pointer;
@@ -96,4 +104,24 @@ img {
   display: block;
   width: 100%;
   object-fit: cover;
+}
+
+/* ========== medium devices ====== */
+@media screen and (max-width: 1024px) {
+  .container {
+    width: var(--container-width-md);
+  }
+  section {
+    margin-top: 6rem;
+  }
+}
+
+/* ========== small devices =========== */
+@media screen and (max-width: 600px) {
+  .container {
+    width: var(--container-width-sm);
+  }
+  section > h2 {
+    margin-bottom: 2rem;
+  }
 }
