@@ -3,7 +3,7 @@ import {
   Header,
   Nav,
   About,
-  Experiance,
+  Experience,
   Portfolio,
   Contact,
   Footer,
@@ -15,7 +15,7 @@ function App() {
       <Header />
       <Nav />
       <About />
-      <Experiance />
+      <Experience />
       <Portfolio />
       <Contact />
       <Footer />

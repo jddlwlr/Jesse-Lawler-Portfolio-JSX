@@ -4,9 +4,9 @@ import { BsLinkedin, BsGithub, BsMailbox } from "react-icons/bs";
 
 const Header = () => {
   return (
-    <header>
+    <header id="home">
       <div className="container header__container">
-        <h5>Hello I am</h5>
+        <h5>Hi I'm</h5>
         <h1>Jesse Lawler</h1>
         <h5>Full Stack Developer</h5>
         <div className="callto">
