@@ -1,0 +1,26 @@
+.about_container {
+  display: grid;
+  grid-template-columns: 35% 50%;
+  gap: 15%;
+}
+
+.about_me {
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 1rem;
+  display: grid;
+  place-items: center;
+}
+.about_me_image {
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.about_cards {
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  gap: 1.5rem;
+}
+.about_card {
+  /* background: var(--color-bg); */
+  border: 1px solid transparent;
+}
