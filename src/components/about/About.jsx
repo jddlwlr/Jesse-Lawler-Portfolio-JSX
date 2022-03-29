@@ -13,16 +13,8 @@ const About = () => {
               <br></br>
             </div>
             <h4>
-              I've had the priveledge to work in multiple fields as a geologist.
-              From rickety old oil rigs spitting crude and state of the art rigs
-              drilling miles below the surface, to managing the cleanup of
-              petroleum products spilled below the surface, to restaurants with
-              refridgerant leaks. But, when our son came along I quit my job and
-              have been in search of a new career path ever since. That brings
-              us to today, where I am enrolled in the Georgia Tech full-stack
-              web developer bootcamp and am learning as much as I can between
-              snack-time and nap-time. I am hoping to use this bootcamp as a
-              learning launchpad and to begin a career in tech.
+              I am a former geologist, stay-at-home dad and current web
+              development student working to advance my coding abilities.
             </h4>
           </article>
         </div>

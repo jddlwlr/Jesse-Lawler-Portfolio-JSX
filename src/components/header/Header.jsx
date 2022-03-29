@@ -10,9 +10,9 @@ const Header = () => {
         <h1>Jesse Lawler</h1>
         <h5>Full Stack Developer</h5>
         <div className="callto">
-          <a href="#contact" className="btn">
+          {/* <a href="#contact" className="btn">
             Contact
-          </a>
+          </a> */}
           <a href="/src/assets/JesseLawlerResume.pdf" download className="btn">
             Download Resume
           </a>
