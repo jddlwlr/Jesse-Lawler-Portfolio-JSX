@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Jesse-Lawler-Portfolio-JSX/static/css/main.7d9b6782.css",
-    "main.js": "/Jesse-Lawler-Portfolio-JSX/static/js/main.897e9dea.js",
+    "main.css": "/Jesse-Lawler-Portfolio-JSX/static/css/main.bad8c218.css",
+    "main.js": "/Jesse-Lawler-Portfolio-JSX/static/js/main.60ba5f5e.js",
     "static/js/787.a25cdf17.chunk.js": "/Jesse-Lawler-Portfolio-JSX/static/js/787.a25cdf17.chunk.js",
     "static/media/profile.jpg": "/Jesse-Lawler-Portfolio-JSX/static/media/profile.c2381ab84726fedad5de.jpg",
+    "static/media/workdayImage.png": "/Jesse-Lawler-Portfolio-JSX/static/media/workdayImage.1afe105296a7b0dd239a.png",
+    "static/media/thrve.jpg": "/Jesse-Lawler-Portfolio-JSX/static/media/thrve.484712faf840f97739ce.jpg",
+    "static/media/CityWeatherHub.jpg": "/Jesse-Lawler-Portfolio-JSX/static/media/CityWeatherHub.0fda58cee4fdee89fb48.jpg",
+    "static/media/search-criteria.jpg": "/Jesse-Lawler-Portfolio-JSX/static/media/search-criteria.299fa9039aa93678362d.jpg",
     "index.html": "/Jesse-Lawler-Portfolio-JSX/index.html",
-    "main.7d9b6782.css.map": "/Jesse-Lawler-Portfolio-JSX/static/css/main.7d9b6782.css.map",
-    "main.897e9dea.js.map": "/Jesse-Lawler-Portfolio-JSX/static/js/main.897e9dea.js.map",
+    "main.bad8c218.css.map": "/Jesse-Lawler-Portfolio-JSX/static/css/main.bad8c218.css.map",
+    "main.60ba5f5e.js.map": "/Jesse-Lawler-Portfolio-JSX/static/js/main.60ba5f5e.js.map",
     "787.a25cdf17.chunk.js.map": "/Jesse-Lawler-Portfolio-JSX/static/js/787.a25cdf17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d9b6782.css",
-    "static/js/main.897e9dea.js"
+    "static/css/main.bad8c218.css",
+    "static/js/main.60ba5f5e.js"
   ]
 }
